@@ -13,10 +13,8 @@
 Ensure these dependencies are installed by running:
 ```bash
 npm install prompt-sync csv-parser
+```bash
 
-## File Structure
-
-static-data/ ├── routes.txt ├── trips.txt ├── stop_times.txt ├── stops.txt └── calendar.txt translink_parser.js
 
 ## How It Works
 
