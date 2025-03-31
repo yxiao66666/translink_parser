@@ -10,10 +10,11 @@
   - `csv-parser`: For reading and parsing CSV files.
   - `fs`: For interacting with the file system.
 
-```markdown
+
 Ensure these dependencies are installed by running:
 ```bash
 npm install prompt-sync csv-parser
+
 
 
 
