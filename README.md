@@ -57,7 +57,7 @@ The `translink_parser.js` script works by:
 The application will prompt for:
 - **Departure date** (format: YYYY-MM-DD)
 - **Departure time** (format: HH:mm)
-- **Bus route** (choose from 1 to 9)
+- **Bus route** 
 
 Based on your input, it will fetch live bus data and show relevant updates.
 
